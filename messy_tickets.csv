@@ -1,0 +1,7 @@
+customer_id, issue_type, priority, status
+1, login problem, high, open
+2, payment failed, medium, closed
+3,  refund request , , open
+2, payment failed, medium, closed
+4, password reset, low, 
+5, account locked, high, open

@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.env
+
+# Generated outputs
+cleaned_tickets.csv
+cleaning_report.txt
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/
