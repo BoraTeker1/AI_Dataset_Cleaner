@@ -23,4 +23,4 @@ python dataset_cleaner.py messy_tickets.csv cleaned_tickets.csv
 
 ## Requirements
 
-- Python 3 (stdlib only — no external packages)
+- Python 3, standard library only (no external packages)
